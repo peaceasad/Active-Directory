@@ -10,14 +10,14 @@ Enumeration and Attacking techniques.
 
 ## Authors
 
-- [@peaceasad](https://www.github.com/peaceasad)
+- [peaceasad](https://www.github.com/peaceasad)
 
 
 ## 🚀 About Me
 I'm an Ethical Hacker and cybersecurity Researcher.
 
 
-## Active Directory
+## Lesson
 
 - [Enumeration](https://github.com/peaceasad/Active-Directory/blob/main/Enumeration.md)
 
